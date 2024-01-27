@@ -19,7 +19,7 @@ RPC Network Management System is a Java-based remote procedure call (RPC) applic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rpc-deviceinfo-pinger.git
+   git clone https://github.com/yourusername/rpc-network-management.git
 2. Compile the server and client:
    ```bash
    javac *.java
